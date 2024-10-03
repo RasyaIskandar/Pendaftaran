@@ -7,11 +7,7 @@
 
     <section class="bg-white dark:bg-gray-900">
         <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
-            <div class="max-w-screen-fluid mb-8 lg:mb-16 text-center">
-            <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Sekolah Pesat</h2>
-            <p class="text-gray-500 sm:text-xl dark:text-gray-400">Menjadi Sekolah Vokasi Informatika Terbaik 
-                Yang Menghasilkan Lulusan Berakhlak Mulia, Expert dan Profesional </p>
-            </div><br><br>
+
             <div class="max-w-screen-fluid mb-8 lg:mb-16 text-center">
                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">3 Program Keahlian</h2>
                 <p class="text-gray-500 sm:text-xl dark:text-gray-400">JURUSAN DI SMK INFORMATIKA PESAT</p>
